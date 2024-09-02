@@ -1,2 +1,3 @@
 # Arkanoid
- Classic Arkanoid game, builded with vanilla javaScript
+
+Classic Arkanoid game, builded with vanilla javaScript
